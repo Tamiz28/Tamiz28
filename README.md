@@ -11,7 +11,7 @@ A seasoned Quality Specialist in the pharmaceutical industry with over 2 years o
 
  <p>
   <img align="right" src="https://media.licdn.com/dms/image/D4E12AQF7RKVvozyLtg/article-cover_image-shrink_720_1280/0/1665494659870?e=1714003200&v=beta&t=wlKhZj80RtIUCmb5e9hLzRw62-V50Ev2Ay8DKBV2WuM" alt="maheshdethe01" width="50%" />
-  <img  src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" alt="maheshdethe01" width="40%" />
+  <img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanadacollege.edu%2Fmenloparksite%2Fprograms%2FDataAnalysis.php&psig=AOvVaw2XU7TEsqCRkbZyA_a4WrpY&ust=1731763654255000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj9_r-43okDFQAAAAAdAAAAABAE" alt="maheshdethe01" width="40%" />
   </p>
 
 <h1 align="center">Hi 👋, I'm Tamizharasi Senguttuvan</h1>
